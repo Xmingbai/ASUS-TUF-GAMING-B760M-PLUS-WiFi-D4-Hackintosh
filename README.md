@@ -15,7 +15,19 @@ CPU：i7-13700KF
 
 无线网卡：黑果无线网卡 BCM94360CD
 
-第一个引导版本 OC087
+# 第一个引导版本 OC087
+
+☆ CPU 睿频正常
+
+☆ USB3.0和2.0识别
+
+☆ 2.5G有线网卡识别正常
+
+☆ 声卡驱动正常（ALC897声卡需仿冒device-id= D07A0000）
+
+☆ 另加BCM94360CD WIFI与蓝牙正常，隔空投送正常
+
+☆ 睡眠与唤醒正常，支持开机键唤醒
 
 ![](https://github.com/Xmingbai/ASUS-TUF-GAMING-B760M-PLUS-WiFi-D4-Hackintosh/blob/main/PC.png)
 
