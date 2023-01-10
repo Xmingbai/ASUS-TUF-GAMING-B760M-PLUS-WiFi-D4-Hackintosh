@@ -1,5 +1,12 @@
 # ASUS-TUF-GAMING-B760M-PLUS-WiFi-D4-Hackintosh
 
+# 主机测评视频，淘宝店铺：小明白工作室
+
+B站 https://www.bilibili.com/video/BV1Bd4y177GP
+
+油管 https://www.youtube.com/watch?v=brMSWrdv7PA&t=2s
+
+
 # 测评主机配置：
 主板：ASUS TUF GAMING B760M PLUS WIFI D4
 
