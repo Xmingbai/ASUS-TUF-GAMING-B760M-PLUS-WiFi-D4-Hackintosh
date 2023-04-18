@@ -2,7 +2,7 @@
 
 # 主机测评视频，也可以关注一下淘宝店铺：小明白工作室
 
-B站 https://www.bilibili.com/video/BV1Bd4y177GP
+B站 https://www.bilibili.com/video/BV1Bd4y177GP  (白嫖党三连支持一下)
 
 油管 https://www.youtube.com/watch?v=brMSWrdv7PA&t=2s
 
